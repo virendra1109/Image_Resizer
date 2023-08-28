@@ -1,4 +1,4 @@
-# Image_Resizer usin OpenCV
+# Image_Resizer using OpenCV
 
 This script uses the OpenCV library to resize an input image and save the resized image to a specified destination. 
 It's a simple tool that can be used to quickly resize images by a specified percentage.

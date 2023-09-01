@@ -57,9 +57,6 @@ Suppose you have an image named `veer.jpg` that you want to resize to 50% of its
 You would set the `source` variable to `'veer.jpg'` and the `destination` variable to `'new_image.jpg'`. Then, 
 set the `scale_percent` variable to `50`. After running the script, the resized image will be saved as `new_image.jpg`.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Remember to replace placeholders like `'virendra1109'` and `'Image_resizer'` with your actual GitHub username and repository name. 
 Also, include the appropriate license file (`LICENSE`) in your repository if you haven't already.
